@@ -1,0 +1,8 @@
+https://auth0.com/docs/quickstart/webapp/nodejs
+
+session
+passport
+
+const strategy is where the information will be changed.
+
+In the scope part, make sure to add email and profile.
